@@ -1,2 +1,1 @@
-# LTC2_DI
-This is a space to where I contain all my work for this class.
+This is the branch of the class repository that i will submit my work.
